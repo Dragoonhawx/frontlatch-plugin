@@ -1,0 +1,16 @@
+{
+  "name": "frontlatch",
+  "displayName": "FrontLatch",
+  "version": "1.0.0",
+  "description": "Connect agents to FrontLatch to inspect websites, discover available actions, and start guided website setup.",
+  "author": {
+    "name": "FrontLatch",
+    "email": "hello@frontlatch.com"
+  },
+  "homepage": "https://frontlatch.com",
+  "repository": "https://github.com/Dragoonhawx/frontlatch-plugin",
+  "logo": "assets/logo.png",
+  "category": "integrations",
+  "keywords": ["frontlatch", "websites", "agents", "mcp", "onboarding"],
+  "mcpServers": "./mcp.json"
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "frontlatch": {
+      "type": "http",
+      "url": "https://frontlatch.com/mcp"
+    }
+  }
+}
